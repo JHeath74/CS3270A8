@@ -1,0 +1,42 @@
+edu/weber/cs/w01378454/cs3270a8/CourseViewFragment.java
+ edu.weber.cs.w01378454.cs3270a8.CourseViewFragment
+ edu.weber.cs.w01378454.cs3270a8.CourseViewFragment$1
+ edu.weber.cs.w01378454.cs3270a8.CourseViewFragment$1$1
+edu/weber/cs/w01378454/cs3270a8/CourseListFragment.java
+ edu.weber.cs.w01378454.cs3270a8.CourseListFragment
+ edu.weber.cs.w01378454.cs3270a8.CourseListFragment$1
+ edu.weber.cs.w01378454.cs3270a8.CourseListFragment$2
+edu/weber/cs/w01378454/cs3270a8/SecondFragment.java
+ edu.weber.cs.w01378454.cs3270a8.SecondFragment
+ edu.weber.cs.w01378454.cs3270a8.SecondFragment$1
+edu/weber/cs/w01378454/cs3270a8/FirstFragment.java
+ edu.weber.cs.w01378454.cs3270a8.FirstFragment
+ edu.weber.cs.w01378454.cs3270a8.FirstFragment$1
+edu/weber/cs/w01378454/cs3270a8/DeleteConfirmationDialogFragment.java
+ edu.weber.cs.w01378454.cs3270a8.DeleteConfirmationDialogFragment
+ edu.weber.cs.w01378454.cs3270a8.DeleteConfirmationDialogFragment$1
+ edu.weber.cs.w01378454.cs3270a8.DeleteConfirmationDialogFragment$2
+ edu.weber.cs.w01378454.cs3270a8.DeleteConfirmationDialogFragment$3
+edu/weber/cs/w01378454/cs3270a8/CourseEditFragment.java
+ edu.weber.cs.w01378454.cs3270a8.CourseEditFragment
+ edu.weber.cs.w01378454.cs3270a8.CourseEditFragment$1
+ edu.weber.cs.w01378454.cs3270a8.CourseEditFragment$2
+edu/weber/cs/w01378454/cs3270a8/CourseRecyclerAdapter.java
+ edu.weber.cs.w01378454.cs3270a8.CourseRecyclerAdapter
+ edu.weber.cs.w01378454.cs3270a8.CourseRecyclerAdapter$1
+ edu.weber.cs.w01378454.cs3270a8.CourseRecyclerAdapter$AllCourseViewHolder
+ edu.weber.cs.w01378454.cs3270a8.CourseRecyclerAdapter$OnListChange
+edu/weber/cs/w01378454/cs3270a8/MainActivity.java
+ edu.weber.cs.w01378454.cs3270a8.MainActivity
+edu/weber/cs/w01378454/cs3270a8/BuildConfig.java
+ edu.weber.cs.w01378454.cs3270a8.BuildConfig
+edu/weber/cs/w01378454/cs3270a8/AllCoursesViewModel.java
+ edu.weber.cs.w01378454.cs3270a8.AllCoursesViewModel
+edu/weber/cs/w01378454/cs3270a8/DB/CourseDAO.java
+ edu.weber.cs.w01378454.cs3270a8.DB.CourseDAO
+edu/weber/cs/w01378454/cs3270a8/DB/Course.java
+ edu.weber.cs.w01378454.cs3270a8.DB.Course
+edu/weber/cs/w01378454/cs3270a8/FullScreenDeleteConfirmationDialogFragment.java
+ edu.weber.cs.w01378454.cs3270a8.FullScreenDeleteConfirmationDialogFragment
+edu/weber/cs/w01378454/cs3270a8/DB/AppDatabase.java
+ edu.weber.cs.w01378454.cs3270a8.DB.AppDatabase
